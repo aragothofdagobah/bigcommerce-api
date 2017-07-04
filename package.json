@@ -1,0 +1,19 @@
+{
+  "name": "bigcommerce-api",
+  "version": "1.0.0",
+  "description": "App to demo my knowledge of the BigCommerce API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aragothofdagobah/bigcommerce-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aragothofdagobah/bigcommerce-api/issues"
+  },
+  "homepage": "https://github.com/aragothofdagobah/bigcommerce-api#readme"
+}
